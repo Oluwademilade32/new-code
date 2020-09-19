@@ -1,0 +1,5 @@
+Class yourself(object):
+    def __init__(self, name, age):
+          self.name = name
+          
+    def name(
