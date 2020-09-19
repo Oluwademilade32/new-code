@@ -1,0 +1,10 @@
+run: |
+class(object):
+   def __init__(self, name, age):
+        self.name = name
+        self.age = age
+   def name(self):
+        print (your name is name and you are " age "years")
+demi = object()
+Demi = object(name)
+
